@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
+Visit this link to deploy the webpage:[Portfolio](https://duncannjau.github.io/)
 
 
 ## Authors
