@@ -8,8 +8,8 @@
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- Css
+- Html
 
 ## Live Demo (if available)
 
