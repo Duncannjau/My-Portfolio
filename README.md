@@ -1,19 +1,17 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # Project Name
-
+Portfolio webpage
 > Description the project.
-
+ Portfolio webpage for Duncan Njau
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages:Html,Css,Javascript
+- Technologies used:VsCode
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -42,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/Duncannjau)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
